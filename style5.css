@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+
+.b{
+
+    background-color:  #2a2f49;
+    z-index: 6;
+}
+
+.carousel-item{
+    width: 100%;
+    height: 100vh;
+}
+.carousel-content{
+    position: absolute;
+    bottom: 90%;
+    top: 24%;
+    left: 55%;
+    z-index: 5;
+    text-shadow: 0 1px 2px rgba(0,0,0,.6);
+}
+.n{
+    font-size: 48px;
+    font-weight: bold;
+    margin-left: 2%;
+}
+.f{
+    font-size: 60px;
+    font-weight: bold;
+    color: white;
+}
+.f1{
+    color: #30bfec;
+    font-size: 50px;
+    font: bold;
+    margin-right: 10%;
+}
+.f2{
+    width:152px;
+    height: 55px;
+}
+.t2{
+    width: 40px;
+    background-color: #30bfec;
+    height: 40px;
+    border-radius: 40px;
+    font-size: 30px;
+    margin-left: -10px;
+}
+.t{
+    font-size: 30px;
+    margin-top: -40px;
+}
+
+
+#coupon{
+    height:400px;
+    width:800px;
+    background-color:rgb(236 236 234);
+    position:absolute;
+    margin-left:18%;
+    display:none;
+    margin-top: 7%;
+    z-index: 30;
+    color: white;
+    font-style:italic;
+    
+
+}
+#button{
+    margin-left: 96%;
+    border-radius: 71%;
+    margin-top: 0%;
+    width: 4%;
+    float: left;
+    border: none;
+    background-color:rgb(236 236 234);
+}
+#shoes6{
+    width: 378px;
+    height: 352px;
+    margin-left: 2%;
+}
+
+#text{
+    color: black;
+    margin-left: 56%;
+    margin-top: -31%;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+#text1{
+    color: black;
+    margin-left: 45%;
+    margin-top: 2%;
+}
+#text2{
+    color: rgb(241, 109, 1);
+    margin-left: 47%;
+    margin-top: 1%;
+}
+#button2{
+    margin-left: 30%;
+    margin-top: -2%;
+    padding: 3%;
+    border-radius: 31px;
+    background-color: green;
+}
+#text3{
+    width:133px;
+    height: 131px;
+    margin-left: 56%;
+    margin-top: -45%;
+}
+
